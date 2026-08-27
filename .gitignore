@@ -1,0 +1,5 @@
+# QoderWork runtime data (not part of the skill itself)
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
